@@ -9,7 +9,7 @@
 |   3 | Nguyễn Việt Đăng Khoa | 2A202601794 | Thành viên         |
 |   4 | Tống Duy An           | 2A202601995 | Thành viên         |
 |   5 | Ngô Trọng Bảo         | 2A202601024 | Thành viên         |
-|   6 |                       |             | Thành viên         |
+|   6 | Ngô Mạnh Minh Huy     | 2A202601926 | Thành viên         |
 
 ## Group convergence
 
