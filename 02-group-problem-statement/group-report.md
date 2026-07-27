@@ -8,7 +8,7 @@
 |   2 | Đào Bình Minh         | 2A202601364 | Thành viên         |
 |   3 | Nguyễn Việt Đăng Khoa | 2A202601794 | Thành viên         |
 |   4 | Tống Duy An           | 2A202601995 | Thành viên         |
-|   5 | Ngô Gia Bảo           | 2A202601024 | Thành viên         |
+|   5 | Ngô Trọng Bảo         | 2A202601024 | Thành viên         |
 |   6 |                       |             | Thành viên         |
 
 ## Group convergence
